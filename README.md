@@ -116,6 +116,6 @@ npm run dev
 </tr>
 </table>
 
-<h3>Helpful Documentation</h3>
+<h3>📝 Helpful Documentation</h3>
 
 [Server-Side API for this project](https://github.com/ursapictura/Rare-BE)
