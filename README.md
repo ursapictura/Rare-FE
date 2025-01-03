@@ -6,6 +6,7 @@
 <a href="#tech">Technologies</a>
 <a href="#started">Getting Started</a>
 <a href="#colab">Collaborators</a>
+<a href="https://www.loom.com/share/02db094501c042bd91a2d4849c959b44?sid=3def6f21-5234-4552-8eec-ad4d2107baa4">App Demo</a>
 </p>
 
 
@@ -13,6 +14,9 @@
 
 User's have full CRUD capabilities on their own content, so previously published content can be revised or removed by the original content creator.</p>
 
+<p align="center">
+<a href="https://www.loom.com/share/02db094501c042bd91a2d4849c959b44?sid=3def6f21-5234-4552-8eec-ad4d2107baa4">App Video Demo</a>
+</p>
 
 <p align="center">
 <a href="https://github.com/ursapictura/Rare-BE">Check out the server-side repo!</a>
